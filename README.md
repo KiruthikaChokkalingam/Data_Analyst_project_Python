@@ -1,5 +1,6 @@
 # Data_Analyst_project_Python
 
+<br>
 
 ✅ Data collection and cleaning
 
@@ -10,6 +11,7 @@
 ✅ Statistical analysis & insights extraction
 
 
+<br>
 
 📌 Tools & Libraries Used:
 
